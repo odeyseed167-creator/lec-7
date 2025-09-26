@@ -31,6 +31,17 @@ Insert gif or link to demo
 I'm a full stack developer...
 
 
+inter tis link to view my website
+
+[Demo]([https://linktodocumentation](https://odeyseed167-creator.github.io/lec-7/))
+
+
+## Demo
+
+Insert gif or link to demo
+
+
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
@@ -54,3 +65,6 @@ Install my-project with npm
 
 If you have any feedback, please reach out to us at fake@fake.com
 
+## Documentation
+
+[Documentation](https://linktodocumentation)
