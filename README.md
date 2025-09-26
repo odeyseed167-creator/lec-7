@@ -22,9 +22,6 @@ To run this project, you will need to add the following environment variables to
 `ANOTHER_API_KEY`
 
 
-## Demo
-
-Insert gif or link to demo
 
 
 ## 🚀 About Me
