@@ -29,13 +29,10 @@ I'm a full stack developer...
 
 
 inter tis link to view my website
+[Demo](https://odeyseed167-creator.github.io/lec-7/)
 
-[Demo]([https://linktodocumentation](https://odeyseed167-creator.github.io/lec-7/))
 
 
-## Demo
-
-Insert gif or link to demo
 
 
 
